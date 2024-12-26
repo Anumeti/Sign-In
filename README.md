@@ -3,4 +3,7 @@ obviasly i dont the back end so i took help of chat gpt ,
 what do you expect from 2nd year student so you can forgive me for that but rest,
 is my code i wrote it by myself.
 
+And the project i made is basic sign in page 
+when you succesfully sign in you will be able to see my previous project calc.
+
 feel free to make change 
